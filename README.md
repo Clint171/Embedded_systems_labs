@@ -2,6 +2,14 @@
 
 This repository contains a series of lab exercises for an embedded systems course, implemented in 8051 assembly language.
 
+## How to Run the Simulator
+
+To run the 8051 simulator, you need to have Java installed on your system. Open a terminal or command prompt, navigate to the `Simulator_For_The_Labs` directory, and run the following command:
+
+```bash
+java -jar edsim51di.jar
+```
+
 ## Lab 1: Basic I/O and Control
 
 ### `LAB1_1000_ITERATION.asm`
