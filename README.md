@@ -10,6 +10,8 @@ To run the 8051 simulator, you need to have Java installed on your system. Open 
 java -jar edsim51di.jar
 ```
 
+Learn more about the simulator or download it for yourself [here](https://edsim51.com/)
+
 ## Lab 1: Basic I/O and Control
 
 ### `LAB1_1000_ITERATION.asm`
