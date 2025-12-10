@@ -1,4 +1,6 @@
 ; FILE: LAB2_ECHO_W_DEBOUNCE.ASM
+; Runs at 12MHz, 1000 instruction/sec or higher
+
 ORG 0000H
 
 START:
