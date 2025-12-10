@@ -1,4 +1,6 @@
 ; FILE: LAB2_BIT_ADDRESSING.ASM
+; Runs at 1MHz, 1 instruction/sec
+
 ORG 0000H
 
 START:
