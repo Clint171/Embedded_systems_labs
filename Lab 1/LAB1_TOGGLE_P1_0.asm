@@ -1,4 +1,5 @@
 ; FILE: LAB1_TOGGLE_P1_0.ASM
+; Runs at 1MHz, 1 instruction/sec
 ORG 0000H
 
 START:
