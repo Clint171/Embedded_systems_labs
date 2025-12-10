@@ -1,4 +1,6 @@
 ; FILE: LAB1_1000_ITERATION.ASM
+; Runs at 1MHz, 1 instruction/sec
+
 ORG 0000H
 
     MOV R1, #03H    ; High byte of 1000 (03E8H)
