@@ -27,6 +27,16 @@ This lab covers the simulation of analog-to-digital conversion and interfacing w
 *   Interfacing with a Hitachi HD44780-compatible character LCD in 4-bit mode.
 *   Creating custom characters (CGRAM) to display a bar graph representation of the analog value.
 
+### [Lab 4](./Lab%204/README.md)
+
+### [Lab 5: Polling vs. Interrupt-Driven I/O](./Lab%205/README.md)
+
+This lab compares two fundamental methods for handling I/O operations in embedded systems: polling and interrupt-driven I/O.
+
+### [Lab 6: Temperature Data Acquisition System](./Lab%206/README.md)
+
+This lab implements a temperature data acquisition system. The system uses a Python script to read temperature data and log it to a CSV file.
+
 ## Simulator
 
 The labs are designed to be run on an 8051 simulator. This repository includes the `edsim51di.jar` simulator.
