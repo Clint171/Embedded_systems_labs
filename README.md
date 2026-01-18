@@ -30,6 +30,7 @@ This lab covers the simulation of analog-to-digital conversion and interfacing w
 ## Simulator
 
 The labs are designed to be run on an 8051 simulator. This repository includes the `edsim51di.jar` simulator.
+<img src="simulator.png"/>
 
 ### How to Run the Simulator
 
