@@ -27,7 +27,13 @@ This lab covers the simulation of analog-to-digital conversion and interfacing w
 *   Interfacing with a Hitachi HD44780-compatible character LCD in 4-bit mode.
 *   Creating custom characters (CGRAM) to display a bar graph representation of the analog value.
 
-### [Lab 4](./Lab%204/README.md)
+### [Lab 4: Memory and Stack Operations](./Lab%204/README.md)
+
+This lab explores memory access and stack operations in the 8051 microcontroller. It covers:
+*   Reading data from code memory using the `MOVC` instruction.
+*   Accessing internal RAM using direct and indirect addressing.
+*   Understanding how the stack pointer and stack operate.
+*   Observing automatic stack usage during interrupt service routines.
 
 ### [Lab 5: Polling vs. Interrupt-Driven I/O](./Lab%205/README.md)
 
